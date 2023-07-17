@@ -1,5 +1,8 @@
 body {
   background-image: url("https://cdn.nostr.build/p/Qev8.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 h1 h2 {
